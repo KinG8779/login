@@ -1,0 +1,131 @@
+{
+  "resultCode": "00",
+  "msg": "Success",
+  "data": {
+    "msisdn": "923058653178",
+    "name": "Demo User",
+    "cnic": "37405-9487915-1",
+    "address": "E11/3, Rawalpindi",
+    "type": "Prepaid",
+    "network": "Warid",
+    "status": "Active",
+    "location": "Islamabad",
+    "dob": "1985-08-31",
+    "gender": "Male",
+    "profileImage": "-",
+    "packageInfo": "J999",
+    "subscriberType": "Individual",
+    "facebookId": "-",
+    "facebookFirstname": "-",
+    "facebookLastname": "-",
+    "facebookMiddlename": "-",
+    "facebookName": "-",
+    "facebookNameformat": "-",
+    "facebookPicture": "-",
+    "facebookShortname": "-",
+    "facebookEmail": "-",
+    "token": "L09FM1pra3gycW9jc0pQYnpmMjRidkc4MEwrRFVWenBpREVLK1VRZ091cFlmV0d2SElBeWFmajN2RDdJTkE3bA\u003d\u003d",
+    "subtoken": "L2Zld1dzYlhTZ1Q4WC96cVgyWEw4RWQ4MUpra1FEV0Nxcnhrc3ZDbXlldz0\u003d",
+    "entityId": null,
+    "linkedAccounts": [
+{
+        "msisdn": "923011039523",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923011039523",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+{
+        "msisdn": "923066221236",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923067094156",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+{
+        "msisdn": "923072250657",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923065608605",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+{
+        "msisdn": "923097551495",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923078909582",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+{
+        "msisdn": "923038334251",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923019565403",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      },
+      {
+        "msisdn": "923056612257",
+         "type": "prepaid",
+        "network": "Jazz",
+        "address": null,
+        "cnic": null,
+        "isPrimary": "0"
+      }
+    ],
+    "signupreward": null,
+    "facebookToken": null,
+    "segmentId": "1,3,31,59,67",
+    "csvSegmentId": "",
+    "apple_id": null,
+    "apple_firstname": null,
+    "apple_lastname": null,
+    "apple_email": null
+  },
+  "execTime": "83",
+  "param": "ff5414ca14cbe60f07b1a35247afba1f"
+}
